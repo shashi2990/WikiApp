@@ -1,4 +1,4 @@
-Appium-Python-Client
-pytest
-selenium
-
+Appium-Python-Client = 0.48
+pytest = 6.2.2
+selenium = 3.141.0
+driver = 2.0.0
